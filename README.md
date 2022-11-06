@@ -1,4 +1,4 @@
-### Hi there 👋. I am a software enthusiast exploring new technologies every day.
+### Hi there 👋. I am a software enthusiast exploring new skills every day.
 
 Here are some stats:
 </br>
