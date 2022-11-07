@@ -7,6 +7,9 @@ Here are some stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djani-Antova&theme=radical&count_private=true&hide_border=true" />
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<!--
+
 ## Contact Me 🤝
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/Djani-Antova)[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/djani-antova-0492b3164)
