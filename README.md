@@ -5,7 +5,7 @@ Here are some stats:
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Djani-Antova&theme=radical&count_private=true&layout=compact&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djani-Antova&theme=radical&count_private=true&hide_border=true" />
+
 
 
 
