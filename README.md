@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djani-antova" alt="djani-antova" /></a> </p>
 
-- 🔭 I’m currently working hard on my education [at Softuni, Sofia, Bulgaria](https://softuni.bg/)
+- 🔭 I’m currently working hard on my software education [at Softuni, Sofia, Bulgaria](https://softuni.bg/)
 
 - 👯 I’m looking to collaborate on **real projects**
 
