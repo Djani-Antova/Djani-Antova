@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Djani</h1>
+<h1 align="center">Hi 👋, I'm Djani Antova</h1>
 <h3 align="center">A passionate frontend developer from Sofia, Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djani-antova&label=Profile%20views&color=0e75b6&style=flat" alt="djani-antova" /> </p>
